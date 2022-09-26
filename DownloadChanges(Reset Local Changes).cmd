@@ -1,3 +1,2 @@
-fetch --all
-git reset --hard orgin/master
+git pull origin master
 pause
